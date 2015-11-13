@@ -35849,14 +35849,14 @@ endr
 	ld de, EnemyMonMoves
 	ld c, NUM_MOVES
 
-; Give a score of 0 to a blank move	
+; Give a score of 0 to a blank move
 .asm_44184
 	ld a, [de]
 	and a
 	jr nz, .asm_44189
 	ld [hl], a
 
-; Disregard the move if its score is not 1	
+; Disregard the move if its score is not 1
 .asm_44189
 	ld a, [hl]
 	dec a
@@ -35873,7 +35873,7 @@ endr
 	dec c
 	jr nz, .asm_44184
 
-; Randomly choose one of the moves with a score of 1 	
+; Randomly choose one of the moves with a score of 1
 .ChooseMove
 	ld hl, Buffer1
 	call Random
@@ -61208,7 +61208,7 @@ TownMapBubble: ; 91bb5
 
 ; Up/down arrows
 	hlcoord 18, 1
-	ld [hl], $34	
+	ld [hl], $34
 	ret
 
 .Where
@@ -77925,7 +77925,7 @@ endr
 	ld l, e
 	ld de, w6_d000
 	call FarCopyBytes
-	
+
 	pop hl
 	pop bc
 
@@ -82639,5 +82639,3 @@ INCBIN "misc/stadium2_2.bin"
 ELSE
 INCBIN "misc/stadium2_1.bin"
 ENDC
-
-
