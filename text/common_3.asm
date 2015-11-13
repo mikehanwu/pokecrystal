@@ -769,8 +769,8 @@ Text_YouCantUseItInABattle: ; 1c0c85
 ; 1c0ca3
 
 Text_AreYouABoyOrAreYouAGirl: ; 1c0ca3
-	text "Are you a boy?"
-	line "Or are you a girl?"
+	text "Yo! You a guy?"
+	line "Or a lil girl?"
 	done
 ; 1c0cc6
 
@@ -1764,23 +1764,23 @@ UnknownText_0x1c1cf3: ; 1c1cf3
 ; 1c1d35
 
 _OakText1: ; 1c1d35
-	text "Hello! Sorry to"
-	line "keep you waiting!"
+	text "Yo Kid! Wait long?"
+	line "Too bad! Haha!"
 
-	para "Welcome to the"
-	line "world of #MON!"
+	para "Look noob, this is"
+	line "the #MON world!"
 
-	para "My name is OAK."
+	para "I am PROF OAK."
 
-	para "People call me the"
-	line "#MON PROF."
+	para "I'm pretty much"
+	line "DA smartest dude."
 	prompt
 ; 1c1da4
 
 _OakText2: ; 1c1da4
-	text "This world is in-"
-	line "habited by crea-"
-	cont "tures that we call"
+	text "So, in this world"
+	line "we have crea-"
+	cont "tures called"
 	cont "#MON.@"
 	db "@"
 ; 1c1de2
@@ -1795,28 +1795,30 @@ UnknownText_0x1c1de4: ; 1c1de4
 ; 1c1de5
 
 _OakText4: ; 1c1de5
-	text "People and #MON"
-	line "live together by"
+	text "If you didn't"
+	line "already know"
 
-	para "supporting each"
-	line "other."
+	para "that, you should"
+	line "return the game."
 
-	para "Some people play"
-	line "with #MON, some"
-	cont "battle with them."
+	para "I know what you"
+	line "are thinking."
+	cont "When do I get a"
+	cont "#MON?"
 	prompt
 ; 1c1e51
 
 _OakText5: ; 1c1e51
-	text "But we don't know"
-	line "everything about"
-	cont "#MON yet."
+	text "Well, hold your"
+	line "Ponytas! I gotta"
+	cont "test you first."
 
-	para "There are still"
-	line "many mysteries to"
-	cont "solve."
+	para "Press A."
+	line "Press A."
+	cont "Press A."
 
-	para "That's why I study"
-	line "#MON every day."
+	para "Wow! You're good!"
+	line "You can have a"
+	cont "PoKeSlave! :)"
 	prompt
 ; 1c1ec9

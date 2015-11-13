@@ -1,29 +1,31 @@
 _OakText6: ; 0x1c4000
-	text "Now, what did you"
-	line "say your name was?"
+	text "Now, what's your"
+	line "stupid name?"
 	prompt
 ; 0x1c4026
 
 _OakText7: ; 0x1c4026
-	text "<PLAYER>, are you"
-	line "ready?"
+	text "<PLAYER>? Are"
+	line "you serious?"
 
-	para "Your very own"
-	line "#MON story is"
-	cont "about to unfold."
+	para "Ok <PLAYER>,"
+	line "fitting name for"
+	cont "a imbescile."
 
-	para "You'll face fun"
-	line "times and tough"
-	cont "challenges."
+	para "Kidding, haha."
+	line "Geez, don't be"
+	cont "a crybaby."
 
-	para "A world of dreams"
-	line "and adventures"
+	para "Ok, I'm bored now."
+	line "Run off now."
 
-	para "with #MON"
-	line "awaits! Let's go!"
+	para "Oh, one last thing"
+	line "You should say bye"
+	cont "to your mom."
 
-	para "I'll be seeing you"
-	line "later!"
+	para "Who knows when she"
+	line "will be able to"
+	cont "see you again!"
 	done
 ; 0x1c40e6
 

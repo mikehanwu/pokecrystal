@@ -180,21 +180,21 @@ UnknownText_0x1bc29c: ; 0x1bc29c
 	text $56, $56, $56, $56, $56, $56
 	line $56, $56, $56, $56, $56, $56
 
-	para "Zzz… Hm? Wha…?"
+	para "Zzz… Wha? Jerk!"
 	line "You woke me up!"
 
-	para "Will you check the"
-	line "clock for me?"
+	para "Check the time for"
+	line "me, jerk face!"
 	prompt
 ; 0x1bc2eb
 
 UnknownText_0x1bc2eb: ; 0x1bc2eb
-	text "What time is it?"
+	text "What time be it?"
 	done
 ; 0x1bc2fd
 
 UnknownText_0x1bc2fd: ; 0x1bc2fd
-	text "What?@"
+text "What?@"
 	db "@"
 ; 0x1bc305
 
@@ -204,12 +204,12 @@ UnknownText_0x1bc305: ; 0x1bc305
 ; 0x1bc308
 
 UnknownText_0x1bc308: ; 0x1bc308
-	text "How many minutes?"
+	text "What's the minutes?"
 	done
 ; 0x1bc31b
 
 UnknownText_0x1bc31b: ; 0x1bc31b
-	text "Whoa!@"
+	text "BS!@"
 	db "@"
 ; 0x1bc323
 
@@ -220,21 +220,21 @@ UnknownText_0x1bc323: ; 0x1bc323
 
 UnknownText_0x1bc326: ; 0x1bc326
 	text "!"
-	line "I overslept!"
+	line "FFS! I overslept!"
 	done
 ; 0x1bc336
 
 UnknownText_0x1bc336: ; 0x1bc336
 	text "!"
-	line "Yikes! I over-"
+	line "Crap! I over-"
 	cont "slept!"
 	done
 ; 0x1bc34f
 
 UnknownText_0x1bc34f: ; 0x1bc34f
 	text "!"
-	line "No wonder it's so"
-	cont "dark!"
+	line "So late! Why'd"
+	cont "you wake me?!"
 	done
 ; 0x1bc369
 
