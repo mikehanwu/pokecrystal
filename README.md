@@ -1,3 +1,35 @@
+#Mike's fork of pokecrystal
+Hack on the original Pokemon Crystal
+
+CHANGES FROM ORIGINAL GAME
+--------------------------------
+Done:
+
+WIP:
+Story overhaul
+     -Team rocket is encouraging you
+     -Rival is childhood best friend
+     -Oak is a jerk
+     -Mom is abusive
+     -Givonni is your hero
+All 251 pokemon available
+     List of legendaries     
+Increase difficulty for gym leader
+Updated Pokemon party for Ash.
+     Follow the anime closer.
+1 Random patch of grass with every possible pokemon
+     -All level 5
+Missingo
+Random talker
+Gambler mode - Initial double money higher
+Crush
+
+Maybe:
+-Hold B to run
+-New Pokemon: Mike
+
+----------------------------------------------------------------------------
+
 # Pokémon Crystal
 
 This is a disassembly of Pokémon Crystal.
