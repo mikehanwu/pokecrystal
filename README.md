@@ -12,20 +12,30 @@ Story overhaul
      -Oak is a jerk
      -Mom is abusive
      -Givonni is your hero
+
 All 251 pokemon available
      List of legendaries     
+     
 Increase difficulty for gym leader
+
 Updated Pokemon party for Ash.
      Follow the anime closer.
+     
 1 Random patch of grass with every possible pokemon
      -All level 5
+     
 Missingo
-Random talker
-Gambler mode - Initial double money higher
-Crush
 
-Maybe:
+Random talker
+
+Gambler mode - Initial double money higher
+
+Secret crush
+
+
+Maybe?:
 -Hold B to run
+
 -New Pokemon: Mike
 
 ----------------------------------------------------------------------------
