@@ -111,35 +111,34 @@ UnknownText_0x68473:
 	line "VIOLET #MON GYM"
 	cont "leader!"
 
-	para "People say you can"
-	line "clip flying-type"
+	para "I'm the weakest"
+	line "gym leader."
 
-	para "#MON's wings"
-	line "with a jolt of"
-	cont "electricity…"
+	para "You can pretty"
+	line "much beat me"
+	cont "with any #MON."
 
-	para "I won't allow such"
-	line "insults to bird"
-	cont "#MON!"
+	para "I don't know how"
+	line "I even became a"
+	cont "gym leader."
 
-	para "I'll show you the"
-	line "real power of the"
+	para "If you lose, then"
+	line "you must suck!"
 
-	para "magnificent bird"
-	line "#MON!"
+	para "Here I go!"
+	line "I'm scared."
 	done
 
 UnknownText_0x6854a:
-	text "…Darn! My dad's"
-	line "cherished bird"
-	cont "#MON…"
+	text "Well, that was"
+	line "expected. You"
+	cont "won."
 
-	para "All right."
-	line "Take this."
+	para "Here take my"
+	line "money."
 
-	para "It's the official"
-	line "#MON LEAGUE"
-	cont "ZEPHYRBADGE."
+	para "And this ugly"
+	line "ZEPHYRBADGE"
 	done
 
 UnknownText_0x685af:
@@ -155,124 +154,104 @@ UnknownText_0x685c8:
 	para "It also enables"
 	line "#MON to use"
 
-	para "FLASH, if they"
-	line "have it, anytime."
+	para "FLASH, which "
+	line "lights up tunnels,"
 
-	para "Here--take this"
-	line "too."
+	para "but is useless"
+	line "in battles."
 	done
 
 UnknownText_0x68648:
-	text "By using a TM, a"
-	line "#MON will"
+	text "When you use a TM"
+	line "on a #MON, you"
 
-	para "instantly learn a"
-	line "new move."
+	para "force it to learn"
+	line "a new move."
 
-	para "Think before you"
-	line "act--a TM can be"
-	cont "used only once."
+	para "Do what you want"
+	line "with it, you sick"
+	cont "jerk."
 
-	para "TM31 contains"
-	line "MUD-SLAP."
+	para "Also you can only"
+	line "use it once."
 
-	para "It reduces the"
-	line "enemy's accuracy"
+	para "TM31 is MUD-SLAP."
+	line "It'll decrease"
 
-	para "while it causes"
-	line "damage."
+	para "accuracy and do"
+	line "some damage."
 
-	para "In other words, it"
-	line "is both defensive"
-	cont "and offensive."
+	para "Test it out!"
+	line "Geez, I don't"
+	cont "know everything!"
 	done
 
 UnknownText_0x68735:
-	text "There are #MON"
-	line "GYMS in cities and"
-	cont "towns ahead."
+	text "Go away now."
+	line "I gotta stand"
+	cont "completely still"
 
-	para "You should test"
-	line "your skills at"
-	cont "these GYMS."
-
-	para "I'm going to train"
-	line "harder to become"
-
-	para "the greatest bird"
-	line "master!"
+	para "for the rest"
+	line "of the game"
+	cont "doing nothing."
 	done
 
 Bird_keeperRodSeenText:
-	text "The keyword is"
-	line "guts!"
+	text "My name is Rod."
+	line "Birdkeeper Rod."
 
-	para "Those here are"
-	line "training night and"
+	para "Hey, how come"
+	line "you don't talk?"
 
-	para "day to become bird"
-	line "#MON masters."
+	para "Are you deaf"
+	line "or dumb?"
 
-	para "Come on!"
+	para "Hahaha."
 	done
 
 Bird_keeperRodBeatenText:
-	text "Gaaah!"
+	text "Just dumb."
 	done
 
 UnknownText_0x68837:
-	text "FALKNER's skills"
-	line "are for real!"
+	text "Yo. Pho real."
+	done.
 
-	para "Don't get cocky"
-	line "just because you"
-	cont "beat me!"
+	para "Pho is real."
+	line "It's Vietnamese"
+	cont "noodles!"
 	done
 
 Bird_keeperAbeSeenText:
-	text "Let me see if you"
-	line "are good enough to"
-	cont "face FALKNER!"
+	text "I'll show you!"
+	line "Walking in front"
+	cont "of me!"
 	done
 
 Bird_keeperAbeBeatenText:
-	text "This can't be"
-	line "true!"
+	text "Don't walk in"
+	line "front of me!"
+	cont "I'm Abe!"
 	done
 
 UnknownText_0x688c7:
-	text "This is pathetic,"
-	line "losing to some"
-	cont "rookie trainer…"
+	text "Fool."
 	done
 
 VioletGymGuyText:
-	text "Hey! I'm no train-"
-	line "er but I can give"
-	cont "some advice!"
+	text "Yawn. Gonna nap"
+	line "with my eyes"
+	cont "open."
 
-	para "Believe me!"
-	line "If you believe, a"
-
-	para "championship dream"
-	line "can come true."
-
-	para "You believe?"
-	line "Then listen."
-
-	para "The grass-type is"
-	line "weak against the"
-
-	para "flying-type. Keep"
-	line "this in mind."
 	done
 
 VioletGymGuyWinText:
-	text "Nice battle! Keep"
-	line "it up, and you'll"
+	text "Nice battle! For"
+	line "a shrimp!"
 
-	para "be the CHAMP in no"
-	line "time at all!"
+	para "Good luck beating"
+	line "the CHAMP."
+	cont "You'll need it."
 	done
 
 VioletGym_MapEventHeader:
