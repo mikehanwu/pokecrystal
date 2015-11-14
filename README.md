@@ -4,6 +4,10 @@ Hack on the original Pokemon Crystal
 Changes from original game
 --------------------------------
 Done:
+* Increased difficulty for gym leader
+* Increased difficulty for Rivels
+    * Including Red and Blue
+* Increased difficulty for Elite Four
 
 WIP:
 
@@ -18,8 +22,6 @@ WIP:
 * All 251 pokemon available
 
      * List of legendaries     
-     
-* Increase difficulty for gym leader
 
 * Updated Pokemon party for Ash.
 
