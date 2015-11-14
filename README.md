@@ -1,7 +1,7 @@
 #Mike's fork of pokecrystal
 Hack on the original Pokemon Crystal
 
-CHANGES FROM ORIGINAL GAME
+Changes from original game
 --------------------------------
 Done:
 
